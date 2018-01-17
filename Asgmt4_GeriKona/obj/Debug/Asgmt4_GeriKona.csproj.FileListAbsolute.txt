@@ -1,0 +1,10 @@
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\bin\Asgmt4_GeriKona.dll.config
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\bin\Asgmt4_GeriKona.dll
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\bin\Asgmt4_GeriKona.pdb
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\bin\Oracle.ManagedDataAccess.dll
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\obj\Debug\Asgmt4_GeriKona.csprojResolveAssemblyReference.cache
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\obj\Debug\Asgmt4_GeriKona.csproj.CoreCompileInputs.cache
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\obj\Debug\Asgmt4_GeriKona.dll
+D:\GK\Documents\!HUMBER\H-WEB DEVELOPMENT\SEM 1\Web Application Development 1 - HTTP 5101\WS_WebAppDev\Asgmt4_GeriKona\Asgmt4_GeriKona\obj\Debug\Asgmt4_GeriKona.pdb

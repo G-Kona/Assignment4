@@ -1,0 +1,129 @@
+﻿html {
+    box-sizing: border-box;
+    font-size: 16px;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+body {
+    margin:0;
+    padding:0;
+}
+.hidden {
+    display:none;
+}
+.wrapper {
+    width:90%;
+    min-width:950px;
+    margin:0 auto;
+}
+
+/* HEADER */
+header {
+    height: 80px;
+    background-color: #4561CC;
+}
+h1 {
+    margin: 0;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+}
+
+/* MAIN */
+#statusBlock {
+    background-color: #4A8CCC;
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 0;
+    padding: 20px;
+    border-top: 5px solid black;
+    border-right: 5px solid black;
+    border-bottom: 5px solid black;
+}
+#lbl_status {
+    display:block;
+    text-align:center;
+    font-weight:bold;
+    
+}
+#lbl_details {
+    display: block;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}
+#center {
+    width: 500px;
+    margin: 50px auto 20px auto;
+    text-align: center;
+}
+.lblForm {
+    font-size:13pt;
+    font-weight:bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display:block;
+    padding:5px 0;
+
+}
+.txtForm {
+    display: block;
+    margin: 6px 0;
+    height:25px;
+}
+#lbls {
+    width:200px;
+    display:inline-block;
+    text-align:right;
+}
+#txts {
+    width: 200px;
+    display: inline-block;
+}
+h2 {
+    text-align:center;
+    padding-top:20px;
+    text-decoration:underline;
+}
+
+/* BUTTONS */
+#buttons {
+    width:700px;
+    margin:0 auto;
+    text-align:center;
+}
+.btn {
+    padding:10px 25px;
+    margin:0 30px 0 30px;
+}
+
+/* TABLE */
+table {
+    margin: 20px auto 0 auto;
+    border: 0px;
+}
+th {
+    padding: 5px 10px;
+    border: 0px;
+    border-bottom: 5px solid #223066;
+}
+td {
+    padding:5px;
+}
+tr:nth-child(even) {
+    background-color: #C8EAFF;
+}
+
+/* FOOTER */
+footer {
+    background-color: #121936;
+    height:50px;
+    margin-top:30px;
+}
+#copyR {
+    font-size:15pt;
+    color: white;
+    text-align: center;
+    padding-top:15px;
+}
